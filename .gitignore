@@ -1,4 +1,8 @@
-# Ignore hte folder node_modules
+# Ignore the folder node_modules
 node_modules
 
+# Ignores all .md files
 *.md
+
+# Does not ignore the README.md file
+!README.md
