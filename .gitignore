@@ -1,4 +1,4 @@
 # Ignore hte folder node_modules
 node_modules
-# Ignore the folder test.md
-*test.md
+
+*.md
